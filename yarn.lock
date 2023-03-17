@@ -6668,28 +6668,6 @@ gatsby-core-utils@^4.4.0:
     tmp "^0.2.1"
     xdg-basedir "^4.0.0"
 
-gatsby-core-utils@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-4.6.0.tgz#43211a386e4115f720fc461ca7568f3315c25ecf"
-  integrity sha512-wXqWZWn6VuL2caWHCryt/pYyJJxJiv2JKyzXlJ1mLac0ZB24PP3Uc9NXPgFy8XzEtcL+23+9i9CiIiz+VNgxpQ==
-  dependencies:
-    "@babel/runtime" "^7.20.13"
-    ci-info "2.0.0"
-    configstore "^5.0.1"
-    fastq "^1.13.0"
-    file-type "^16.5.3"
-    fs-extra "^11.1.0"
-    got "^11.8.5"
-    hash-wasm "^4.9.0"
-    import-from "^4.0.0"
-    lmdb "2.5.3"
-    lock "^1.1.0"
-    node-object-hash "^2.3.10"
-    proper-lockfile "^4.1.2"
-    resolve-from "^5.0.0"
-    tmp "^0.2.1"
-    xdg-basedir "^4.0.0"
-
 gatsby-core-utils@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-4.7.0.tgz#f2c9d74da334979b0ae847bc6cfe283670c2f752"
@@ -6734,13 +6712,13 @@ gatsby-link@^5.4.0:
     gatsby-page-utils "^3.4.0"
     prop-types "^15.8.1"
 
-gatsby-link@^5.5.0:
-  version "5.6.0"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-5.6.0.tgz#a4dd49162643c425b3b6fa6dafc9ada0936f0f49"
-  integrity sha512-kC/EUajQJGDyUMtdarDQkLaILfuhGNCVMOGs+Px5e/KxAQXmCzWbA0M7tr0i3awyW7Qj3JsBjaL6y3ePe4kzNg==
+gatsby-link@^5.7.0:
+  version "5.7.0"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-5.7.0.tgz#51650fb87953b29d0719ad113f98d632f90db3b1"
+  integrity sha512-IuFMk7UgM6k765wA//ngX77SERPTnGTMUPNenQIrNBLcmETV/SXhVfsToVbNiz2uMZRsRETjo4vN8G0t6pKXDQ==
   dependencies:
     "@types/reach__router" "^1.3.10"
-    gatsby-page-utils "^3.6.0"
+    gatsby-page-utils "^3.7.0"
     prop-types "^15.8.1"
 
 gatsby-page-utils@^3.4.0:
@@ -6757,16 +6735,16 @@ gatsby-page-utils@^3.4.0:
     lodash "^4.17.21"
     micromatch "^4.0.5"
 
-gatsby-page-utils@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-3.6.0.tgz#7b64f5883ae7538ff23e04a4f3259afcc332f467"
-  integrity sha512-zRoRPm5fr/Cz2FFTNyK8vPmcFwyvRumNQa7H4SHg09+RYtawZE2Cs6elsYcBIL1bgDsWCxqGuZYC4Uarv41D0g==
+gatsby-page-utils@^3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-3.7.0.tgz#89b95bdb203a4b48838de8082f1252d1e3abc849"
+  integrity sha512-RSmZiKT5YXcnANHhl745zuzhqmkcekHt3OAovH33sEViXc1DYJJvV4VS8R4Exh4A8fu5mjdKCX6mAqqdHbRYKg==
   dependencies:
     "@babel/runtime" "^7.20.13"
     bluebird "^3.7.2"
     chokidar "^3.5.3"
     fs-exists-cached "^1.0.0"
-    gatsby-core-utils "^4.6.0"
+    gatsby-core-utils "^4.7.0"
     glob "^7.2.3"
     lodash "^4.17.21"
     micromatch "^4.0.5"

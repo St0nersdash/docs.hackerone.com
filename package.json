@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
-    "@docsearch/js": "3.5.1",
+    "@docsearch/js": "3.5.2",
     "@fec/gatsby-plugin-advanced-feed": "^3.0.1",
     "@reach/router": "^1.1.1",
     "gatsby": "^5.10.0",

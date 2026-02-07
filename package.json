@@ -7,7 +7,7 @@
     "@docsearch/js": "3.5.2",
     "@fec/gatsby-plugin-advanced-feed": "^3.0.1",
     "@reach/router": "^1.1.1",
-    "gatsby": "^5.14.0",
+    "gatsby": "^5.16.0",
     "gatsby-cli": "^5.10.0",
     "gatsby-link": "^5.8.0",
     "gatsby-plugin-csp": "^1.1.4",
@@ -47,7 +47,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "classnames": "^2.3.1",
-    "eslint": "^9.15.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-import": "^2.28.0",
     "eslint-plugin-react": "^7.33.0",
     "gh-pages": "^6.2.0",
